@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2015\Projects\KalkulatorSPL2V\KalkulatorSPL2V\bin\Debug\KalkulatorSPL2V.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\KalkulatorSPL2V\KalkulatorSPL2V\bin\Debug\KalkulatorSPL2V.exe
+c:\users\acer\documents\visual studio 2015\Projects\KalkulatorSPL2V\KalkulatorSPL2V\bin\Debug\KalkulatorSPL2V.pdb
+c:\users\acer\documents\visual studio 2015\Projects\KalkulatorSPL2V\KalkulatorSPL2V\obj\Debug\KalkulatorSPL2V.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\KalkulatorSPL2V\KalkulatorSPL2V\obj\Debug\KalkulatorSPL2V.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\KalkulatorSPL2V\KalkulatorSPL2V\obj\Debug\KalkulatorSPL2V.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\KalkulatorSPL2V\KalkulatorSPL2V\obj\Debug\KalkulatorSPL2V.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\KalkulatorSPL2V\KalkulatorSPL2V\obj\Debug\KalkulatorSPL2V.exe
+c:\users\acer\documents\visual studio 2015\Projects\KalkulatorSPL2V\KalkulatorSPL2V\obj\Debug\KalkulatorSPL2V.pdb
